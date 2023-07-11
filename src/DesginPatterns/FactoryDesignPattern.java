@@ -1,5 +1,6 @@
 package DesginPatterns;
 
+//This pattern takes out the responsibility of the instantiation of a Class from the client program to the factory class
 
 abstract class Vehicle{
 		abstract int getWheel();
